@@ -1,4 +1,4 @@
-# DevArena-Week-6
+# DevArena-Week-7
 
 ## Overview
 This project focuses on performing statistical analysis using Python to extract meaningful insights from a given dataset. The primary objective is to apply descriptive statistics, data preprocessing, and analytical techniques to understand data distributions, relationships, and patterns.<br>
