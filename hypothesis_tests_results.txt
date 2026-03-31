@@ -1,0 +1,17 @@
+Null Hypothesis: There is no siginificant difference between the aveage fares between customers who pay form card and who pay from cash. <br>
+Alternate Hypothesis: There is siginificant difference between the aveage fares between customers who pay form card and who pay from cash.
+
+T-test:
+    t_statistics = 26.89
+    p_value = 0.0
+    Verdict = 
+
+ANOVA: 
+    t_statistics = 722
+    p_value = 0.0
+    Verdict =
+
+Kolmogorov Snmirnoff Test: 
+    t_statistics =
+    p_value = 
+    Verdict =
